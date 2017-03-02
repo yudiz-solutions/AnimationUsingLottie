@@ -1,0 +1,9 @@
+AnimationUsingLottie.xcodeproj/project.xcworkspace
+AnimationUsingLottie.xcodeproj/xcuserdata
+AnimationUsingLottie.xcworkspace/xcuserdata
+AnimationUsingLottie.xcworkspace/contents.xcworkspacedata
+AnimationUsingLottie.xcworkspace
+Pods
+*.DS_Store
+.DS_Store
+Podfile.lock
